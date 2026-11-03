@@ -147,11 +147,14 @@ cap.release()
 
 ## Expected Output
 
-1. Captured image saved as `captured_frame.jpg`.
-2. Captured image displayed successfully.
-3. Live webcam video displayed.
-4. Resized video displayed with dimensions 100 × 150 pixels.
-5. Video rotated 90 degrees clockwise and displayed.
+<img width="625" height="497" alt="image" src="https://github.com/user-attachments/assets/41222171-115a-4cb7-99a8-7bf3d3e25b18" />
+
+<img width="641" height="506" alt="image" src="https://github.com/user-attachments/assets/e556f65e-96e4-47f3-96be-d75c004b7cba" />
+
+<img width="325" height="507" alt="image" src="https://github.com/user-attachments/assets/e2625b42-f956-452a-be0d-96b0b3767255" />
+
+<img width="361" height="507" alt="image" src="https://github.com/user-attachments/assets/d405fb65-d904-46ce-913f-dd359773593c" />
+
 
 ## Result
 
