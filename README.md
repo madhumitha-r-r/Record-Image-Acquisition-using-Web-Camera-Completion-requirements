@@ -25,6 +25,9 @@ To write a Python program using OpenCV to capture images from a webcam, save the
 9. Release the webcam after completing the operations.
 
 ## Program
+### Developed by
+#### NAME:MADHUMITHA R R
+#### REG NO: 212224240083
 
 ### 1. Import Required Libraries
 
